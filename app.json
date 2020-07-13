@@ -1,0 +1,12 @@
+{
+    "expo": {
+     "name": "My_snapchat",
+     "icon": "./assets/logoapk.png",
+     "version": "1.0.0",
+     "slug": "projet-epitech",
+     "android": {
+       "package": "com.epitechprojet.mysnapchat",
+       "versionCode": 1
+     }
+    }
+  }
